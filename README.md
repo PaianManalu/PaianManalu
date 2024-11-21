@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PaianManalu<br>👀 I’m interested in Internet Of Things<br>🌱 I am studying at Del institute of technology<br>💬 Ask me about Technologi<br>
+👋 Hi, I’m @PaianManalu<br>👀 I’m Computer Technology Student at Del Institute of Technology. Focusing on DevOps, Internet of Things, Cloud Computing, Embedded Systems, Networking and Web Development <br>🌱 I am studying at Del institute of technology<br>💬 Ask me about Technologi<br>
 
 
 ## 🌐 Socials:
